@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">CL1_RogerVelasquez</string>
+    <string name="title_activity_referencia">ReferenciaActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="hint_usuario">Ingresar Usuario</string>
+    <string name="hint_contrasenia">Ingresar Contraseña</string>
+    <string name="text_button_login">Ingresar</string>
+    <string name="noAccount">Si no tiene cuenta, ingrese</string>
+    <string name="create">aqui</string>
+    <string name="hint_correo">Correo</string>
+    <string name="hint_nUsuario">Usuario</string>
+    <string name="hint_nombre">Nombre</string>
+    <string name="hint_nContraseña">Contraseña</string>
+    <string name="hint_cContraseña">Confirmar Contraseña</string>
+    <string name="text_button_registro">Registrar</string>
+
+    <string name="toolbar_title_crearCuenta">Crear Cuenta</string>
+    <string name="card1">Pizza con Aceitunas</string>
+    <string name="userCard1">Disponible en 3 tamaños</string>
+</resources>

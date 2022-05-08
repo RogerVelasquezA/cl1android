@@ -1,0 +1,11 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="padding_login">35dp</dimen>
+    <dimen name="textsize_noAccount">15sp</dimen>
+    <dimen name="activity_margin">32dp</dimen>
+    <dimen name="edittext_margin_noAccount">10dp</dimen>
+    <dimen name="height_cardview">200dp</dimen>
+    <dimen name="radius_cardview">10dp</dimen>
+    <dimen name="textSize_card">20sp</dimen>
+
+</resources>

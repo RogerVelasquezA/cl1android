@@ -1,0 +1,49 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.CL1_RogerVelasquez" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/accent</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+
+
+    </style>
+    <style name="RaisedButtonDark" parent="Theme.AppCompat.Light">
+        <item name="colorButtonNormal">@color/primary_dark </item>
+        <item  name="colorControlHighlight"  >@color/primary  </item>
+        <item name="android:textColor"> @android:color/white    </item>
+    </style>
+
+    <style name="EditTextWhite" parent="Theme.AppCompat.Light">
+        <item name="android:textColorHint">  @color/editColorWhite  </item>
+        <item name="android:textSize" > @dimen/edittext_textsize_login  </item>
+        <item name="android:textColorPrimary">  @color/editColorWhite  </item>
+        <item name="colorAccent">  @color/editColorWhite  </item>
+        <item name="colorControlNormal">  @color/editColorWhite </item>
+        <item name="colorControlActivated">  @color/editColorWhite  </item>
+
+
+    </style>
+
+    <style name="Theme.CL1_RogerVelasquez.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+
+
+
+
+    <style name="Theme.CL1_RogerVelasquez.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.CL1_RogerVelasquez.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <dimen name="edittext_textsize_login">20sp</dimen>
+</resources>
