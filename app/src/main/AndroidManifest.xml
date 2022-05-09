@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.CL1_RogerVelasquez">
         <activity
+            android:name=".view.ContainerActivity"
+            android:exported="false" />
+        <activity
             android:name=".ReferenciaActivity"
             android:exported="false"
             android:label="@string/title_activity_referencia"
@@ -17,12 +20,11 @@
         <activity
             android:name=".view.CrearUsuarioActivity"
             android:exported="false"
-            android:parentActivityName=".LoginActivity">
-
-        </activity>
+            android:parentActivityName=".LoginActivity"></activity>
         <activity
             android:name=".LoginActivity"
-            android:exported="true">
+            android:exported="true"
+            android:theme="@style/splashTheme">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

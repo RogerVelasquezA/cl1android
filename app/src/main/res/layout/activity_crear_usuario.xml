@@ -44,7 +44,7 @@
                 <com.google.android.material.textfield.TextInputLayout
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:theme="@style/EditTextWhite"
+                    android:theme="@style/EditTextBlack"
                     android:layout_marginTop="@dimen/edittext_margin_noAccount"
                     >
                     <com.google.android.material.textfield.TextInputEditText
@@ -57,7 +57,7 @@
                 <com.google.android.material.textfield.TextInputLayout
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:theme="@style/EditTextWhite"
+                    android:theme="@style/EditTextBlack"
                     android:layout_marginTop="@dimen/edittext_margin_noAccount"
                     >
                     <com.google.android.material.textfield.TextInputEditText
@@ -70,7 +70,7 @@
                 <com.google.android.material.textfield.TextInputLayout
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:theme="@style/EditTextWhite"
+                    android:theme="@style/EditTextBlack"
                     android:layout_marginTop="@dimen/edittext_margin_noAccount"
                     >
                     <com.google.android.material.textfield.TextInputEditText
@@ -83,7 +83,7 @@
                 <com.google.android.material.textfield.TextInputLayout
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:theme="@style/EditTextWhite"
+                    android:theme="@style/EditTextBlack"
                     android:layout_marginTop="@dimen/edittext_margin_noAccount"
                     >
                     <com.google.android.material.textfield.TextInputEditText
@@ -96,7 +96,7 @@
                 <com.google.android.material.textfield.TextInputLayout
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:theme="@style/EditTextWhite"
+                    android:theme="@style/EditTextBlack"
                     android:layout_marginTop="@dimen/edittext_margin_noAccount"
                     >
                     <com.google.android.material.textfield.TextInputEditText

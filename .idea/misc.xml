@@ -3,12 +3,15 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/roger/Desktop/CL1_RogerVelasquez/app/src/main/res/drawable/splashscreen.xml" value="0.146" />
         <entry key="..\:/Users/roger/Desktop/CL1_RogerVelasquez/app/src/main/res/layout/actionbar_toolbar.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/roger/Desktop/CL1_RogerVelasquez/app/src/main/res/layout/activity_container.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/roger/Desktop/CL1_RogerVelasquez/app/src/main/res/layout/activity_crear_usuario.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/roger/Desktop/CL1_RogerVelasquez/app/src/main/res/layout/activity_login.xml" value="0.264" />
         <entry key="..\:/Users/roger/Desktop/CL1_RogerVelasquez/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/roger/Desktop/CL1_RogerVelasquez/app/src/main/res/layout/activity_referencia.xml" value="0.12360688956433637" />
-        <entry key="..\:/Users/roger/Desktop/CL1_RogerVelasquez/app/src/main/res/layout/cardview_picture.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/roger/Desktop/CL1_RogerVelasquez/app/src/main/res/layout/activity_splashscreen.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/roger/Desktop/CL1_RogerVelasquez/app/src/main/res/layout/cardview_picture.xml" value="0.264" />
         <entry key="..\:/Users/roger/Desktop/CL1_RogerVelasquez/app/src/main/res/layout/content_referencia.xml" value="0.25416666666666665" />
       </map>
     </option>

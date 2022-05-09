@@ -30,4 +30,7 @@
     </style>
 
     <dimen name="edittext_textsize_login">20sp</dimen>
+    <style name="splashTheme" parent="Theme.CL1_RogerVelasquez">
+        <item name="android:windowBackground">@drawable/splashscreen</item>
+    </style>
 </resources>

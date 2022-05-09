@@ -23,6 +23,7 @@
     <string name="text_button_registro">Registrar</string>
 
     <string name="toolbar_title_crearCuenta">Crear Cuenta</string>
+    <string name="toolbar_title_Lista">Lista</string>
     <string name="card1">Pizza con Aceitunas</string>
     <string name="userCard1">Disponible en 3 tamaños</string>
 </resources>

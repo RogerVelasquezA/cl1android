@@ -32,6 +32,17 @@
 
     </style>
 
+
+
+    <style name="EditTextBlack" parent="Theme.AppCompat.Light">
+        <item name="android:textColorHint">  @color/primary_text  </item>
+        <item name="android:textSize" > @dimen/edittext_textsize_login  </item>
+        <item name="android:textColorPrimary">  @color/primary_text  </item>
+        <item name="colorAccent">  @color/primary_text   </item>
+        <item name="colorControlNormal">  @color/primary_text   </item>
+        <item name="colorControlActivated">  @color/primary_text   </item>
+    </style>
+
     <style name="Theme.CL1_RogerVelasquez.NoActionBar">
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>
@@ -39,7 +50,9 @@
 
 
 
-
+    <style name="splashTheme" parent="Theme.CL1_RogerVelasquez">
+        <item name="android:windowBackground">@drawable/splashscreen</item>
+    </style>
 
     <style name="Theme.CL1_RogerVelasquez.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
 
